@@ -1,2 +1,2 @@
 # chineseCheckers
-A bisis for a webpage where one can play the game "Chinese Checkers".
+A basis for a webpage where one can play the game "Chinese Checkers".
